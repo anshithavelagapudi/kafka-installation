@@ -7,7 +7,7 @@
   - JAVA_HOME = C:\Program Files\OpenJDK\jdk-version folder
   - KAFKA_HOME =  C:\kafka-version folder
   - M2_HOME = C:\ProgramData\chocolatey\lib\maven\apache-maven-version
-  > - Path - must include (make sure you have only one JDK location in your path!)
+  - Path - must include (make sure you have only one JDK location in your path!)
     > - %JAVA_HOME%\bin OR C:\Program Files\OpenJDK\jdk-version\bin (or similar, NOT both!)
     > - %M2_HOME%\bin
     > - %KAFKA_HOME%\bin
